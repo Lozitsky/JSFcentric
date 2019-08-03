@@ -9,4 +9,6 @@
 
     <context:component-scan base-package="com.kirilo" />
 
+<!--    <bean class="org.springframework.context.annotation.CommonAnnotationBeanPostProcessor" />-->
+<!--    <bean class="com.kirilo.objects.LexusImpl" id="lexus"/>-->
 </beans>
